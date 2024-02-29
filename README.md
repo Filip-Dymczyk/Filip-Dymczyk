@@ -6,7 +6,7 @@
 - :roller_coaster: planning to pursue further education - Master's degree;
 - :books: keen to practice current skills and learn new ones.
 
-### 💻 Known programming languages:
+### 💻 Known programming languages and tools:
 - Python (my most favourite one 😄) including: NumPy, Matplotlib and PyQt 5/6;
 - C - I got really interested in embedded systems (STM32F4), so I plan a project related with that in the future;
 - Matlab - primary tool used by automation specialists who I am soon to become;
@@ -20,8 +20,11 @@
 - advanced Data Science;
 - machine learning.
 
+### 📫 How to reach me:
+- should you want to contact me, please do so via my email :point_right: filipdymczyk@gmail.com :point_left:
 
-### I highly suggest visiting repositories pinned below :arrow_down: to see some of my work :wink:
+If you would like to see some of my work, please do not hesistate to visit the repositories pinned below :arrow_down:
+Their short description is provided in the corresponding README files. Enjoy! :wink:
 
 
     
