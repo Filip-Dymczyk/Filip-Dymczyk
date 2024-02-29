@@ -9,7 +9,7 @@
 ### 💻 Known programming languages and tools:
 - Python (my most favourite one 😄) including: NumPy, Matplotlib and PyQt 5/6;
 - C - I got really interested in embedded systems (STM32F4), so I plan a project related with that in the future;
-- Matlab - primary tool used by automation specialists who I am soon to become;
+- Matlab/Simulink - primary tool used by automation specialists who I am soon to become;
 - R and SQL - basic Data Science knowledge acquired in the course of studies;
 - C++ 17 - OOP projects created during university classes;
 - Java - completed begginers course.
