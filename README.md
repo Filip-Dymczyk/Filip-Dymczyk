@@ -17,7 +17,7 @@
 ### 🌱 Planning to learn:
 - more about embedded systems, preferably Zephyr (Nordic Semiconductor boards);
 - Django;
-- advanced Data Science
+- advanced Data Science;
 - machine learning.
 
 
