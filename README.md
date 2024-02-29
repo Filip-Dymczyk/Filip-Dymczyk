@@ -3,7 +3,8 @@
 
 ### :information_source: Personal info:
 - 🤖 third year student of Automatic Control and Robotics at AGH University of Science and Technology in Cracow;
-- :books: keen to practice current skills and learn new ones;
+- :roller_coaster: planning to pursue further education - Master's degree;
+- :books: keen to practice current skills and learn new ones.
 
 ### 💻 Known programming languages:
 - Python (my most favourite one 😄) including: NumPy, Matplotlib and PyQt 5/6;
@@ -15,8 +16,15 @@
 
 ### 🌱 Planning to learn:
 - more about embedded systems, preferably Zephyr (Nordic Semiconductor boards);
-- Django.
+- Django;
+- advanced Data Science
+- machine learning.
 
+
+### I highly suggest visiting repositories pinned below :arrow_down: to see some of my work :wink:
+
+
+    
 <!--
 **Filip-Dymczyk/Filip-Dymczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
