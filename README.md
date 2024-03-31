@@ -7,7 +7,7 @@
 - :books: keen to practice current skills and learn new ones.
 
 ### 💻 Known programming languages and tools:
-- Python (my most favourite one 😄) including: NumPy, Matplotlib and PyQt 5/6;
+- Python (my most favourite one 😄) including: NumPy, Matplotlib, PyQt 5/6, Pandas and Seaborn;
 - C - I got really interested in embedded systems (STM32F4), so I plan a project related with that in the future;
 - Matlab/Simulink - primary tool used by automation specialists who I am soon to become;
 - R and SQL - basic Data Science knowledge acquired in the course of studies;
@@ -15,9 +15,10 @@
 - Java - completed begginers course.
 
 ### 🌱 Planning to learn:
-- more about embedded systems, preferably Zephyr (Nordic Semiconductor boards);
+- more about embedded systems - planning a project related with creating a BLDC motor controller;
+- advanced Data Science - right now I am completing DataCamp data analyses courses;
+- Python Automated Testing - completing an EPAM course on that topic;
 - Django;
-- advanced Data Science;
 - machine learning.
 
 ### 📫 How to reach me:
