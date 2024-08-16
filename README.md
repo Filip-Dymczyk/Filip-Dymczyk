@@ -3,26 +3,29 @@
 
 ### :information_source: Personal info:
 - 🤖 third year student of Automatic Control and Robotics at AGH University of Science and Technology in Cracow;
+- :gear: working on my Engineer's Thesis related to control of BLDC motors;
 - :roller_coaster: planning to pursue further education - Master's degree;
+- :briefcase: working as a C++ software engineering intern at ABB;
 - :books: keen to practice current skills and learn new ones.
 
 ### 💻 Known programming languages and tools:
-- Python (my most favourite one 😄) including: NumPy, Matplotlib, PyQt 5/6, Pandas and Seaborn;
-- C - I got really interested in embedded systems (STM32F4), so I plan a project related with that in the future;
+- C++ 17 - used at my workplace and during university classes;
+- Git - personal usage, at work and at university;
+- Python including: NumPy, Matplotlib, PyQt 5/6, Pandas and Seaborn;
+- C - mostly in embedded systems using HAL, used during university classes and while working with my Thesis;
 - Matlab/Simulink - primary tool used by automation specialists who I am soon to become;
 - R and SQL - basic Data Science knowledge acquired in the course of studies;
-- C++ 17 - OOP projects created during university classes;
 - Java - completed begginers course.
 
 ### 🌱 Planning to learn:
-- more about embedded systems - planning a project related with creating a BLDC motor controller;
-- advanced Data Science - right now I am completing DataCamp data analyses courses;
-- Python Automated Testing - completing an EPAM course on that topic;
-- Django;
-- machine learning.
+- :hammer_and_wrench: more technical C++ insights;
+- :hammer_and_wrench: advanced Git;
+- :hammer_and_wrench: more about embedded systems - creating a BLDC motor controller related to my Thesis;
+- :white_check_mark: Python Automated Testing - completed an EPAM course on that topic;
+- :white_check_mark: advanced Data Science - completed DataCamp courses.
 
 ### 📫 How to reach me:
-- should you want to contact me, please do so via my email :point_right: filipdymczyk@gmail.com :point_left:
+- should you want to contact me, please do so via my email :point_right: filipdymczyk@gmail.com :point_left:.
 
 If you would like to see some of my work, please do not hesistate to visit the repositories pinned below :arrow_down:
 Their short description is provided in the corresponding README files. Enjoy! :wink:
