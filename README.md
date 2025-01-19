@@ -18,7 +18,7 @@
 - R and SQL - basic Data Science knowledge acquired in the course of studies;
 - Java - completed beginners course.
 
-### 🌱 Planning to learn:
+### 🌱 Planning to do/learn:
 - :hammer_and_wrench: control theory usage in real life projects using e.g. Arduino platform;
 - :hammer_and_wrench: more technical C++ insights;
 - :hammer_and_wrench: advanced Git;
