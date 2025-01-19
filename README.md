@@ -2,22 +2,24 @@
 ### Welcome to a profile of a person passionate about programming that wants to take it to the next level. 🚀
 
 ### :information_source: Personal info:
-- 🤖 third year student of Automatic Control and Robotics at AGH University of Science and Technology in Cracow;
+- 🤖 fourth year student of Automatic Control and Robotics at AGH University of Science and Technology in Cracow;
 - :gear: working on my Engineer's Thesis related to control of BLDC motors;
 - :roller_coaster: planning to pursue further education - Master's degree;
 - :briefcase: working as a C++ software engineering intern at ABB;
 - :books: keen to practice current skills and learn new ones.
 
 ### 💻 Known programming languages and tools:
-- C++ 17 - used at my workplace and during university classes;
-- Git - personal usage, at work and at university;
-- Python including: NumPy, Matplotlib, PyQt 5/6, Pandas and Seaborn;
-- C - mostly in embedded systems using HAL, used during university classes and while working with my Thesis;
+- C++ 17 - extensively used at my workplace, during university classes and for personal projects;
+- Git - personal usage, at work, and at university;
+- Python (including: NumPy, Matplotlib, PyQt 5/6, Pandas, and Seaborn);
+- C - mostly in embedded systems using HAL, used during university classes and while working on my Thesis;
+- Arduino - hands-on personal projects enhancing hardware development and embedded programming skills;
 - Matlab/Simulink - primary tool used by automation specialists who I am soon to become;
 - R and SQL - basic Data Science knowledge acquired in the course of studies;
-- Java - completed begginers course.
+- Java - completed beginners course.
 
 ### 🌱 Planning to learn:
+- :hammer_and_wrench: control theory usage in real life projects using e.g. Arduino platform;
 - :hammer_and_wrench: more technical C++ insights;
 - :hammer_and_wrench: advanced Git;
 - :hammer_and_wrench: more about embedded systems - creating a BLDC motor controller related to my Thesis;
