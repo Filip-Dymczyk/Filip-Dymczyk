@@ -2,19 +2,21 @@
 ### Welcome to a profile of a person passionate about programming that wants to take it to the next level. 🚀
 
 ### :information_source: Personal info:
-- 🤖 fourth year student of Automatic Control and Robotics at AGH University of Science and Technology in Cracow;
-- :gear: working on my Engineer's Thesis related to control of BLDC motors;
+- 🤖 Bachelor of Automatic Control and Robotics at AGH University of Science and Technology in Cracow;
+- :gear: graduated with Bachelor's Thesis "BLDC motor controller";
 - :roller_coaster: planning to pursue further education - Master's degree;
 - :briefcase: working as a C++ software engineering intern at ABB;
 - :books: keen to practice current skills and learn new ones.
 
-### 💻 Known programming languages and tools:
+### 💻 Known programming languages and tools, interests:
 - C++ 17 - extensively used at my workplace, during university classes and for personal projects;
 - Git - personal usage, at work, and at university;
 - Python (including: NumPy, Matplotlib, PyQt 5/6, Pandas, and Seaborn);
 - C - mostly in embedded systems using HAL, used during university classes and while working on my Thesis;
-- Arduino - hands-on personal projects enhancing hardware development and embedded programming skills;
+- BLDC motor control - knowledge developed during work done for my Bachelor's Thesis (Six-Step, Field Oriented Control),
 - Matlab/Simulink - primary tool used by automation specialists who I am soon to become;
+- Arduino - hands-on personal projects enhancing hardware development and embedded programming skills;
+- Control Theory - interest of applying this field in real life projects,
 - R and SQL - basic Data Science knowledge acquired in the course of studies;
 - Java - completed beginners course.
 
@@ -22,7 +24,7 @@
 - :hammer_and_wrench: control theory usage in real life projects using e.g. Arduino platform;
 - :hammer_and_wrench: more technical C++ insights;
 - :hammer_and_wrench: advanced Git;
-- :hammer_and_wrench: more about embedded systems - creating a BLDC motor controller related to my Thesis;
+- :hammer_and_wrench: more about embedded systems - hands on projects;
 - :white_check_mark: Python Automated Testing - completed an EPAM course on that topic;
 - :white_check_mark: advanced Data Science - completed DataCamp courses.
 
